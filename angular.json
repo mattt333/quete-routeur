@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "routeur"
+    }
+  },
+  "defaultProject": "routeur",
+  "cli": {
+    "analytics": false
+  }
 }
